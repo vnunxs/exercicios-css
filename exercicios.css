@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+body{
+    background-color: #2c3e50;
+}
+.cordias{
+    color:black;
+}
+.tema1{
+    color:white;
+}
+.tema2{
+    color:#f1c40f;
+}
+.dias{
+    color:white;
+}
+.temas{
+    color:#e74c3c;
+}
+
+h3{
+background-color:#f1c40f;
+border:outset 5px #000000;
+}
